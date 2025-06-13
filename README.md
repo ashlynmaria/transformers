@@ -7,6 +7,7 @@ This project is a simple and interactive playground to experiment with GPT-2 usi
 - `transformers.ipynb`: Jupyter Notebook with different GPT-2 text generation experiments.
 - `requirements.txt`: Contains the list of Python dependencies.
 - `venv/`: Your virtual environment folder (excluded from Git using `.gitignore`).
+- `Exploring GPT-2 for Text Generation using Transformers.pdf`: Project report explaining the concepts and results.
 
 ## 🚀 How to Run
 
